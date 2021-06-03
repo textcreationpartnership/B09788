@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The princely scuffle, or, An account of the late famous duel, which happen'd betwixt the Prince of Wales, and the young Duke of Bercy, one of the French King's grand sons</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09788</idno><idno type="EEBO-CITATION">64551600</idno>
+  <idno type="VID">184723</idno>
+  <idno type="EEBO-PROQUEST">2240869671</idno>
+  
+            <idno type="STC">Wing P3491A</idno>
+            <idno type="STC">ESTC R224470</idno>
+            <idno type="OCLC">64551600</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184723)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:66)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The princely scuffle, or, An account of the late famous duel, which happen'd betwixt the Prince of Wales, and the young Duke of Bercy, one of the French King's grand sons</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>Printed at Amsterdam :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184723:1"/>
+            <head>
+               <hi>The Princely Scuffle:</hi> Or, An Account of the Late Famous Duel, which happen'd betwixt the <hi>Prince of Wales,</hi> and the Young <hi>Duke of Berry,</hi> one of the <hi>French King's Grand sons.</hi>
+               <add>
+                  <date>26. Jan. 1690/1</date>
+               </add>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>depiction of the fistfight between the Prince of Wales and the Duke of Berry</figDesc>
+                  <figure>
+                     <figDesc>depiction of the French king</figDesc>
+                     <sp>
+                        <p>Don't Bank 'em; Let 'em Fight.</p>
+                     </sp>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of the English queen</figDesc>
+                     <sp>
+                        <p>O! the Prince! Part 'em.</p>
+                     </sp>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of the Prince of Wales</figDesc>
+                     <sp>
+                        <p>You <hi>French</hi> Dog.</p>
+                     </sp>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of the Duke of Berry</figDesc>
+                     <sp>
+                        <p>You <hi>English</hi> Bastard.</p>
+                     </sp>
+                  </figure>
+               </figure>
+            </p>
+            <lg>
+               <l>ALL you that pass by, I pray you draw nigh,</l>
+               <l>Attend to my Song, without ever a Lye;</l>
+               <l>There chanc'd t'other day, a most Tragical Fray</l>
+               <l>Between Two Young Princes, as they were at play</l>
+               <l>
+                  <hi>In a Garden.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The One he was bold, being Four Years old,</l>
+               <l>And scorn'd by a <hi>Ty<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er</hi> for to be Controul'd;</l>
+               <l>Yet tho' he was Young, he could handle his Tongue,</l>
+               <l>And call'd his <hi>VVelsh-Highness</hi> i'th' midst of a Throng,</l>
+               <l>
+                  <hi>English Bastard.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Other so Wise, did the <hi>Dauphin</hi> despise,</l>
+               <l>His Countenance shew'd, his Flesh at him did rise;</l>
+               <l>Quoth he, How I Itch, to have a Sound Twitch</l>
+               <l>At that <hi>French</hi> Sawcy Son of a Bitch.</l>
+               <l>
+                  <hi>The Young Dauphine.</hi>
+               </l>
+            </lg>
+            <sp>
+               <speaker>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>UPHINE.</speaker>
+               <lg>
+                  <l>Begar, dost dou come, to beat me at Home;</l>
+                  <l>Nay, if it be so, den have at dy Bum,</l>
+                  <l>That none may e're say, of me another day,</l>
+                  <l>I dishonour'd my self, in Running away</l>
+                  <l>
+                     <hi>From a Tyler.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>P. of WALES.</speaker>
+               <lg>
+                  <l>
+                     <hi>French Dog,</hi> dost thou think, I ever will shrink?</l>
+                  <l>No, e're I have done, thy <hi>French</hi> Hide it shall stink:</l>
+                  <l>Then do not suppose, I am one of those,</l>
+                  <l>That will run away for one Bloody Nose;</l>
+                  <l>
+                     <hi>No, I Scorn it.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Tho' my Rigid Fate, has expos'd me to hate,</l>
+                  <l>And am, like an Old Almanack, quite out of date;</l>
+                  <l>Yet still there remains, <hi>English</hi> Blood in my Veins;</l>
+                  <l>Then hold your <hi>French</hi> Tongue, or I'll beat out your Brains,</l>
+                  <l>
+                     <hi>You Young Vrchin.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <lg>
+               <l>At this <hi>Dauphine</hi> Hist, and up with his Fist;</l>
+               <l>But the <hi>Prince</hi> he drew back, and the <hi>Dauphine</hi> he mist:</l>
+               <l>And the <hi>Prince</hi> to repay, his kindness, they say,</l>
+               <l>Knock'd the Young <hi>Dauphin</hi> down, and there the Rogue lay</l>
+               <l>
+                  <hi>For an Hour.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But being Reviv'd, together they striv'd,</l>
+               <l>And e'er they had done, the late Queen she arriv'd;</l>
+               <l>Who seeing the Battle, fought on with such mettle,</l>
+               <l>She set up her Notes, and made the Air rattle</l>
+               <l>
+                  <hi>Like Thunder.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Pray part them, she cry'd: The <hi>French King</hi> reply'd,</l>
+               <l>I cannot tell which has the best on his side:</l>
+               <l>Then part not the Chits; you Rogues, look to your Hits;</l>
+               <l>At which, the late Queen, she fell into Fits.</l>
+               <l>
+                  <hi>And no wonder.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For such a sad Maul, there never did fall,</l>
+               <l>Since <hi>Iames,</hi> for not Fighting, she beat at <hi>VVhite-hall;</hi>
+               </l>
+               <l>And so these Young Sparks, did Fight like two <hi>Sharks,</hi>
+               </l>
+               <l>That on both their Bodies, you might see the Marks</l>
+               <l>
+                  <hi>A Month after.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>French King</hi> did say, They shall have fair play;</l>
+               <l>This is not diversion, I have e'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y day;</l>
+               <l>With that they did Fight, in Earnest out-right,</l>
+               <l>And the <hi>Welsh Prince</hi> he Worsted the Young <hi>Dauphine</hi> quite,</l>
+               <l>
+                  <hi>That he Cryed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And then the <hi>Late Queen,</hi> who the Duel had seen,</l>
+               <l>And saw her Son's Nose bleed, so raised her Spleen,</l>
+               <l>That she stept to the <hi>Dauphine,</hi> who was crying and coughing,</l>
+               <l>Quoth she, You Young Bastard, your Grand-fathers huffing</l>
+               <l>
+                  <hi>Shant daunt me.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Without any delay, she began a new Fray,</l>
+               <l>And flew at <hi>Old Lewis,</hi> and beat him they say,</l>
+               <l>That h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Roul'd in his Gore, and his Flesh it was sore;</l>
+               <l>Besides it is said, She in Fury Tore</l>
+               <l>
+                  <hi>Off his VVhiskers.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But a great <hi>English Peer.</hi> who chanc'd to be near,</l>
+               <l>And so this Confusion he Fortun'd to hear,</l>
+               <l>Stept in to make Peace, which they all did Imbrace,</l>
+               <l>And the <hi>Queen</hi> gave <hi>Old Lewis</hi> a Plaster for's Face,</l>
+               <l>
+                  <hi>So they Parted.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Translated from the Orignal, Printed at <hi>AMSTERDAM.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
